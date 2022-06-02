@@ -19,11 +19,8 @@
 
 in-turn reduces development cost.
 
-/assets/images/Screenshot (24).png
 
+![Screenshot (25)](https://user-images.githubusercontent.com/56511361/171728783-0643c607-198f-4e24-a244-8020f6782024.png)
 
-
-
-
-
+![Screenshot (24)](https://user-images.githubusercontent.com/56511361/171728808-3cdf3754-98ac-46ae-b6d5-5f24bc627dc6.png)
 
